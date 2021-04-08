@@ -1,0 +1,16 @@
+# Required to install as dependency, ran pip install -r requirements.txt
+verity-sdk==0.4.3
+aiohttp==3.6.3
+pyqrcode==1.2.1
+pypng==0.0.20
+halo==0.0.29
+jinja2==2.11.2
+aiohttp_jinja2==1.4.2
+psycopg2-binary==2.8.6
+gunicorn==20.0.4
+#Automation test dependencies#
+requests==2.25.1
+pytest==6.2.2
+jsonpath==0.82
+pytest-html==3.1.1
+
